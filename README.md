@@ -13,3 +13,5 @@ A simple listing of site, applications, and projects.
 - [Thousand Words Studio](http://www.1kwordsstudio.com)
 - 50th Anniversary of Hawaii Statehood Conference - no longer active
 - Lynn Finnegan for Lt. Governor of Hawaii - no longer active
+
+## [Resume](https://github.com/danreedy/portfolio/blob/master/Resume.pdf?raw=true)
