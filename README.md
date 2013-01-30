@@ -1,7 +1,7 @@
 Dan Reedy's Portfolio
 =========
 
-A simple listing of projects.
+A simple listing of site, applications, and projects.
 
 ## Ruby on Rails
 
